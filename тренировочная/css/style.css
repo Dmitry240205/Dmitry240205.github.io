@@ -1,0 +1,52 @@
+body {
+    background-image: url(../img/fon_nebo_tochki_83482_1920x1080.jpg);
+    color:blanchedalmond;
+}
+.main {
+    padding: 10px;
+    background: #804b4b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 700px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.check {
+    display: inline;
+}
+.but {
+    width: 175px;
+    background: #093889 ;
+    border-radius: 15px;
+}
+.main__p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39.01px;
+}
+.text1 {
+    font-size: 20px;
+}
+.head {
+    background: #ec0b0b;
+    border: #ec0b0b, solid, 2px;
+    min-height: 30px;
+    opacity: 45%;
+}
+.head__nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+a {
+font-size: 20px;
+color: blanchedalmond;
+}
