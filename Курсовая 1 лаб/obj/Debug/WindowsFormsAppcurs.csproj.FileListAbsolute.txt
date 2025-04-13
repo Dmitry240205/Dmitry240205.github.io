@@ -1,0 +1,20 @@
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\bin\Debug\WindowsFormsAppcurs.exe.config
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\bin\Debug\WindowsFormsAppcurs.exe
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\bin\Debug\WindowsFormsAppcurs.pdb
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\obj\Debug\WindowsFormsAppcurs.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\obj\Debug\WindowsFormsAppcurs.Form1.resources
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\obj\Debug\WindowsFormsAppcurs.Properties.Resources.resources
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\obj\Debug\WindowsFormsAppcurs.csproj.GenerateResource.cache
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\obj\Debug\WindowsFormsAppcurs.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\obj\Debug\WindowsFormsAppcurs.exe
+C:\Users\dmitr\source\repos\WindowsFormsAppcurs\obj\Debug\WindowsFormsAppcurs.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\bin\Debug\WindowsFormsAppcurs.exe.config
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\bin\Debug\WindowsFormsAppcurs.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\bin\Debug\WindowsFormsAppcurs.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\obj\Debug\WindowsFormsAppcurs.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\obj\Debug\WindowsFormsAppcurs.Form1.resources
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\obj\Debug\WindowsFormsAppcurs.Properties.Resources.resources
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\obj\Debug\WindowsFormsAppcurs.csproj.GenerateResource.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\obj\Debug\WindowsFormsAppcurs.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\obj\Debug\WindowsFormsAppcurs.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\Курсовая 1 лаб\obj\Debug\WindowsFormsAppcurs.pdb
