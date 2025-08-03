@@ -1,0 +1,114 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: solid 1px;
+    border-color: #DDDDDD;
+}
+.header__logo {
+    display: flex;
+    align-items: center;
+    margin-top: 29px;
+    margin-left: 165px;
+    margin-right: 296px;
+}
+
+.e3 {
+    margin-right: 5px;
+}
+
+.name {
+    margin-right: 5px;
+    font-family: "Ubuntu";
+    font-size: 20px;
+    font-weight: 300px;
+}
+
+.r3 {
+    margin-right: 5px;
+}
+
+nav {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+
+.header__menu {
+    margin-top: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.header__menu-item {
+    margin-right: 60px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 400px;
+    color: #4C5866;
+}
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+    height: 24px;
+    width: 24px;
+    background: #fff;
+    border: none;
+}
+.log-in {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 24px;
+    width: 24px;
+    background: #fff;
+    border: none;
+}
+.main {
+    display: flex;
+    justify-content: space-between ;
+}
+.photo {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 125px;
+}
+.text {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-width: 445px;
+    padding-top: 130px;
+    padding-left: 165px;
+}
+h1 {
+    flex-wrap: wrap;
+    font-family: "Roboto", sans-serif;
+    font-size: 60px;
+    font-weight: 400px;
+    color: #4C5866;
+}
+p {
+    flex-wrap: wrap;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #85859B;
+}
+.btn1 {
+    border: 1px solid #7875FE;
+    background: #fff;;
+    min-height: 70px;
+    min-width: 255px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 20px;
+    color: #7875FE;
+}
+
